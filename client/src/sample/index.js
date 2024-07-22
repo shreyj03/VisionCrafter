@@ -1,0 +1,22 @@
+export const surpriseMePrompts = [
+  'a whimsical castle floating on a cloud, pastel colors, digital art',
+  'a retro-futuristic cityscape with flying cars, neon lights, and bustling streets, cyberpunk',
+  'a dragon made of stars soaring through the night sky, galaxy-themed',
+  'a vintage steampunk airship navigating through a thunderstorm',
+  'a cozy cabin in the woods during a snowfall, watercolor painting',
+  'a giant octopus hugging a lighthouse, surrealism',
+  'an enchanted forest with glowing mushrooms and fairies, digital art',
+  'a robotic cat exploring an abandoned factory, dystopian future',
+  'a majestic peacock with feathers made of precious gems, opulent and vibrant',
+  'a black and white photograph of a ballerina dancing on a rooftop at sunset',
+  'a futuristic city where buildings are made of giant crystals, reflecting sunlight',
+  'a serene underwater scene with mermaids and colorful coral reefs, fantasy art',
+  'a group of animals having a tea party in a magical forest, childrens book illustration',
+  'a time-traveling detective solving mysteries in Victorian London, steampunk',
+  'a surreal portrait of a person with a galaxy for hair, cosmic vibes',
+  'an adventurous penguin sailing through icy waters on a small boat, whimsical art',
+  'a fairy tale castle perched on the edge of a waterfall, dreamlike scenery',
+  'a neon-lit street market in a bustling Asian metropolis, cyberpunk style',
+  'a magical library where books float and glow, enchanting atmosphere',
+  'an abstract painting of a jazz band playing in a smoky club, vibrant and lively'
+];
